@@ -5,10 +5,6 @@ CS Grad Student @ <a href="https://oregonstate.edu/">Oregon State University</a>
   Web Developer | Ex-Software Engineer @ 🔷 <a href="https://planonsoftware.com/us/">Planon</a>
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gangiswathi2000&label=Profile%20views&color=0e75b6&style=flat" alt="gangiswathi2000" />
-</p>
-
 ---
 
 ## 📘 My Chapter
@@ -25,6 +21,19 @@ Software Engineering, Web Development, and a growing curiosity towards AI.
 ✍️ Outside of development, I’ve authored and edited 30 technical articles on <a href="https://www.geeksforgeeks.org/user/gangiswathi2000/contributions/" target="_blank">GeeksforGeeks</a> covering Data Structures and web technologies.
 
 💡 I enjoy turning ideas into intuitive, impactful tools and solving the tough problems along the way.
+
+
+## 🌐 🤝 Tech Meets Purpose
+<p>I believe technology is a powerful force for good. Let’s connect, collaborate, and turn ideas into impact!</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swathi-gangi-7554351a8/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://www.hackerrank.com/profile/CSE__18H51A0511" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://www.codechef.com/users/swathigangi_11" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://www.geeksforgeeks.org/user/gangiswathi2000/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://codeforces.com/profile/swathi_gangi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://www.hackerearth.com/@18h51a0511_cse/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" style="margin-right:10px;"/></a>
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -54,15 +63,7 @@ Software Engineering, Web Development, and a growing curiosity towards AI.
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
 </p>
 
-## 🌐 🤝 Tech Meets Purpose
-<p>I believe technology is a powerful force for good. Let’s connect, collaborate, and turn ideas into impact!</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/swathi-gangi-7554351a8/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;"/></a>
-  <a href="https://www.hackerrank.com/profile/CSE__18H51A0511" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right:10px;"/></a>
-  <a href="https://www.codechef.com/users/swathigangi_11" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="margin-right:10px;"/></a>
-  <a href="https://www.geeksforgeeks.org/user/gangiswathi2000/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" style="margin-right:10px;"/></a>
-  <a href="https://codeforces.com/profile/swathi_gangi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="margin-right:10px;"/></a>
-  <a href="https://www.hackerearth.com/@18h51a0511_cse/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" style="margin-right:10px;"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gangiswathi2000&show_icons=true&theme=radical" alt="Swathi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangiswathi2000&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
