@@ -54,3 +54,15 @@ Software Engineering, Web Development, and a growing curiosity towards AI.
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
 </p>
 
+## 🌐 🤝 Tech Meets Purpose
+<p>I believe technology is a powerful force for good. Let’s connect, collaborate, and turn ideas into impact!</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swathi-gangi-7554351a8/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://www.hackerrank.com/profile/CSE__18H51A0511" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://www.codechef.com/users/swathigangi_11" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://www.geeksforgeeks.org/user/gangiswathi2000/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://codeforces.com/profile/swathi_gangi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="margin-right:10px;"/></a>
+  <a href="https://www.hackerearth.com/@18h51a0511_cse/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" style="margin-right:10px;"/></a>
+</p>
+
