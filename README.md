@@ -2,7 +2,7 @@
 
 <h3 align="center">
 CS Grad Student @ <a href="https://oregonstate.edu/">Oregon State University</a> 🧡 |
-  Web Developer | Ex-Software Engineer @ 🔷 <a href="https://planonsoftware.com/us/">Planon</a>
+  Web Developer | Ex-Software Engineer @ <a href="https://planonsoftware.com/us/">Planon</a>
 </h3>
 
 ---
